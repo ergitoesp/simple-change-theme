@@ -3,7 +3,7 @@ function changetheme(a){
     if(a==1){
         temacambio.style.background="black"
     } else if(a==2){
-        temacambio.style.background="blue"
+        temacambio.style.background="green"
     } else if(a==3){
         temacambio.style.background="red"
     } else if(a==4){
