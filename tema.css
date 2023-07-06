@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.temacambio{
+    width: 900px;
+    height: 400px;
+    border-radius: 105px;
+    background-color: gray;
+}
+.boton1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.boton1 button{
+    background-color: rgb(155, 155, 155);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
